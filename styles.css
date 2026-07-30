@@ -1,0 +1,7 @@
+/* // styles.css // */
+:root {
+  --bg-primary: 18, 18, 24;
+  --bg-secondary: 28, 28, 38;
+  --text-main: 240, 240, 245;
+  --accent-color: 60, 180, 90;
+}
