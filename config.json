@@ -1,0 +1,14 @@
+{
+  "Theme": "DarkModern",
+  "Version": "1.0.0",
+  "Files": {
+    "HTML": "index.html",
+    "CSS": "styles.css",
+    "Core": "init.luau"
+  },
+  "Variables": {
+    "bg-primary": "18, 18, 24",
+    "bg-secondary": "28, 28, 38",
+    "text-main": "240, 240, 245"
+  }
+}
